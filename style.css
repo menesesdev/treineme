@@ -7,10 +7,11 @@
     margin: 65px auto 0;
 }
 
-header{
+nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 55px;
 }
 
 ul{
@@ -20,3 +21,4 @@ ul{
     margin: 0;
     padding: 0;
 }
+ 
