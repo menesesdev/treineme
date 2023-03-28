@@ -4,7 +4,7 @@ body{
 }
 
 .page{
-    width: 1000px;
+    width: 1300px;
     margin: 10px auto 0;
     padding: 70px;
 }
@@ -74,6 +74,9 @@ footer{
 
     text-align: center;
     margin-top: 80px;
+
+    border-top: 1px solid #1f1534;
+    padding-top: 15px;
 }
 
 footer a{
